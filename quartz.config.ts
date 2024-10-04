@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌌 Guilded in Shadow",
+    pageTitle: "🌌 Guilded in Shadows",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
