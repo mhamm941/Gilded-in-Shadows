@@ -27,7 +27,7 @@ This timeline is meant to cover major events that happen both in-game and in the
 - The 8 towns of the Commonwealth are established.
 
 #### Bellside Disaster 4/14/252
-- A titanic beast erupted from a nearby forest and charged the town. The town was saved when the church’s artifact was activated, which also led to 4 individuals gaining strange golden marks.
+- A titanic beast erupted from a nearby forest and charged the town. The town was saved when the church’s artifact was activated, which also led to four individuals gaining strange golden marks.
 
 #### Timberhorn Disaster 5/4/252
 - Massive vines rampage the town, coming from the Ironheart forest. The church’s artifact was activated and successfully stopped the event. Three individuals have been reported to now have golden marks on their bodies.
